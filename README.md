@@ -1,4 +1,2 @@
-\# status
-
-learning git and feeling good about it
-
+# Status
+resolved conflict and got happier about it.
